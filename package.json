@@ -1,0 +1,20 @@
+{
+  "name": "ts6ra2-cli-word-counter-",
+  "version": "1.0.0",
+  "description": "This is a Cli based word counter game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
